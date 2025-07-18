@@ -1,0 +1,2 @@
+# mean-calculator
+its mean
